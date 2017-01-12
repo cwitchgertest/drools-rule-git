@@ -1,8 +1,0 @@
-{
-  "id" : "09b90632-486b-4153-bd7e-e77b45d14488",
-  "name" : "rule1",
-  "description" : "rule1",
-  "ruleflowGroup" : "ruleflow1",
-  "conditions" : null,
-  "consequence" : null
-}
