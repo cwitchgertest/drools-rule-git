@@ -1,0 +1,31 @@
+{
+  "id" : "bee83d9e-b525-4bfa-94b8-b309241bff2e",
+  "name" : "test",
+  "description" : "This is a new rule",
+  "packageName" : "package0",
+  "conditions" : [ {
+    "id" : "6542387a-6028-455f-9df3-89e0024a2985",
+    "className" : "com.redhat.brms.model.Customer",
+    "assignedName" : "name",
+    "constraints" : [ {
+      "@type" : "Constraint",
+      "id" : "b45f7d21-d0be-444d-94ab-749f4ff3fb2b",
+      "field" : "customerId",
+      "operator" : "EQUALS",
+      "value" : "value",
+      "valueType" : "STRING"
+    } ]
+  } ],
+  "consequence" : {
+    "id" : "c79dc4da-a37f-4792-af8e-0aaba92eca62",
+    "terms" : [ {
+      "@type" : "FactSetter",
+      "id" : "03bb599f-ed04-46a2-a81a-5e735f28d2b7",
+      "factType" : null,
+      "factField" : "customerName",
+      "factAssignedName" : "name",
+      "value" : "value",
+      "valueType" : "STRING"
+    } ]
+  }
+}
