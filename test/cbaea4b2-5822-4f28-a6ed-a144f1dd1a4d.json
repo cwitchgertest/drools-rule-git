@@ -2,7 +2,7 @@
   "id" : "cbaea4b2-5822-4f28-a6ed-a144f1dd1a4d",
   "name" : "New Rule",
   "description" : "This is a new rule",
-  "ruleflowGroup" : "ChangeName",
+  "ruleflowGroup" : "test",
   "conditions" : [ ],
   "consequence" : {
     "id" : "da374f87-b38b-48d9-8d0d-c0a290494bb5",
