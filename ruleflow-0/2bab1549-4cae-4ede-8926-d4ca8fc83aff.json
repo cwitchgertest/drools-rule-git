@@ -1,15 +1,15 @@
 {
-  "id" : "a2be9845-85c5-4988-a2cc-1d681398679e",
-  "name" : "Updated",
+  "id" : "2bab1549-4cae-4ede-8926-d4ca8fc83aff",
+  "name" : "New Rule",
   "description" : "This is a new rule",
-  "ruleflowGroup" : "ruleflow-2",
+  "ruleflowGroup" : "ruleflow-0",
   "conditions" : [ {
-    "id" : "3d4208d4-926e-4a47-b530-8cc40d063eaf",
+    "id" : "967f471f-cb8b-4f48-98bf-9949a3374047",
     "className" : "com.redhat.brms.model.Customer",
     "assignedName" : "name",
     "constraints" : [ {
       "@type" : "Constraint",
-      "id" : "b3477a00-8c91-4dd7-a008-804db9938c07",
+      "id" : "d170ddce-4718-4dfc-a782-5d1ffe3de02b",
       "field" : "customerId",
       "operator" : "EQUALS",
       "value" : "value",
@@ -17,10 +17,10 @@
     } ]
   } ],
   "consequence" : {
-    "id" : "bbb43578-2ecf-4bd8-bdaf-87366116d8e3",
+    "id" : "1e638af6-d64b-47cc-9bda-caace3ed9f91",
     "terms" : [ {
       "@type" : "FactSetter",
-      "id" : "bb9c7151-6e1f-4f8c-9818-bd0ee50b5325",
+      "id" : "8e7d6d43-5a4f-4f09-b826-ba4f0e724938",
       "factType" : null,
       "factField" : "customerName",
       "factAssignedName" : "name",
