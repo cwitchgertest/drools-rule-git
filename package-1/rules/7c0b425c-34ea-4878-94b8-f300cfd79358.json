@@ -1,0 +1,11 @@
+{
+  "id" : "7c0b425c-34ea-4878-94b8-f300cfd79358",
+  "name" : "New Rule",
+  "description" : "This is a new rule",
+  "packageName" : "package-1",
+  "conditions" : [ ],
+  "consequence" : {
+    "id" : "dcd0b2ac-ace2-445f-99f0-4231057eabf0",
+    "terms" : [ ]
+  }
+}
