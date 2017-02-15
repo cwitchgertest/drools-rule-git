@@ -1,0 +1,19 @@
+{
+  "id" : "c6078fea-6c2b-40bc-8c57-78355b957a4d",
+  "packageKey" : {
+    "packageName" : "c6078fea-6c2b-40bc-8c57-78355b957a4d",
+    "version" : "1.0"
+  },
+  "kjarArtifact" : {
+    "id" : null,
+    "groupId" : "com.redhat.brms",
+    "artifactId" : "generated-kjar-c6078fea-6c2b-40bc-8c57-78355b957a4d-1.0",
+    "version" : "0.0.1"
+  },
+  "modelArtifacts" : [ {
+    "id" : "05102035-a832-4454-890c-bbcb6f3e08a3",
+    "groupId" : "com.redhat.brms",
+    "artifactId" : "drools-rule-xsd-model",
+    "version" : "0.0.1"
+  } ]
+}
